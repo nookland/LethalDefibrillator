@@ -8,7 +8,7 @@ namespace LethalDefibrillator
         private void Awake()
         {
             // Plugin startup logic
-            Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
+            Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded! Nice!");
         }
     }
 }
